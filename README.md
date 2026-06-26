@@ -3,8 +3,8 @@
 My first HTML and CSS project.
 
 ## Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 ## Author
 Abdiwakil
